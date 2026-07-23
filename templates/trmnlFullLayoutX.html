@@ -1,0 +1,29 @@
+<!--
+  TRMNL X - Full layout (1040 x 780, 4-bit grayscale).
+  Paste into the "Full" markup field of the TRMNL private plugin editor when configuring
+  for a TRMNL X device. It uses the larger artwork_x.jpg image and shows more metadata,
+  taking advantage of the higher resolution and richer grayscale of the X display.
+  Polling URL:
+  https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/ArtInstituteImageOfTheDay.json
+-->
+<div class="layout layout--col layout--top gap--medium">
+  <div class="grid grid--cols-3 gap--large">
+    <div class="col col--center col--span-2" style="display: flex; justify-content: center; align-items: center;">
+      <img class="image image-dither" style="max-width: 100%; max-height: 640px; height: auto;"
+        src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork_x.jpg" />
+    </div>
+    <div class="col col--start gap--medium">
+      <div class="value value--medium"><b>{{ Title }}</b></div>
+      <div class="description clamp--3">{{ Artist }}</div>
+      <div class="label"><b>Date:</b> {{ DateDisplay }}</div>
+      <div class="label clamp--3"><b>Medium:</b> {{ Medium }}</div>
+      <div class="label clamp--2"><b>Dimensions:</b> {{ Dimensions }}</div>
+      <div class="label clamp--1"><b>Department:</b> {{ Department }}</div>
+      <div class="label clamp--2"><b>Credit:</b> {{ CreditLine }}</div>
+    </div>
+  </div>
+</div>
+<div class="title_bar">
+  <span class="title">Art Institute of Chicago</span>
+  <span class="instance">Image of the Day</span>
+</div>

@@ -1,0 +1,40 @@
+name: Fetch Art Institute Image Of The Day
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-script:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch the image of the day
+        run: .\scripts\ArtInstituteImageOfTheDay.ps1
+        shell: pwsh
+
+      - name: Update README
+        run: .\scripts\ReadMeUpdater.ps1
+        shell: pwsh
+
+      - name: Commit and push updates
+        shell: pwsh
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add ArtInstituteImageOfTheDay.json artwork.jpg artwork_x.jpg README.md
+          git diff --cached --quiet
+          if ($LASTEXITCODE -ne 0) {
+            git commit -m "Art Institute image of the day: $(Get-Date -Format 'yyyy-MM-dd')"
+            git push
+          } else {
+            Write-Host 'No changes to commit.'
+          }
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,25 @@
+<!--
+  TRMNL OG - Full layout (800 x 480, 1-bit).
+  Paste into the "Full" markup field of the TRMNL private plugin editor.
+  The polling plugin should point at:
+  https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/ArtInstituteImageOfTheDay.json
+-->
+<div class="layout layout--col layout--top gap--small">
+  <div class="grid grid--cols-2 gap--medium">
+    <div class="col col--start gap--small">
+      <div class="value value--small"><b>{{ Title }}</b></div>
+      <div class="description clamp--2">{{ Artist }}</div>
+      <div class="label"><b>Date:</b> {{ DateDisplay }}</div>
+      <div class="label clamp--2"><b>Medium:</b> {{ Medium }}</div>
+      <div class="label clamp--1"><b>Department:</b> {{ Department }}</div>
+    </div>
+    <div class="col col--center" style="display: flex; justify-content: center; align-items: center;">
+      <img class="image image-dither" style="max-width: 100%; max-height: 400px; height: auto;"
+        src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" />
+    </div>
+  </div>
+</div>
+<div class="title_bar">
+  <span class="title">Art Institute of Chicago</span>
+  <span class="instance">Image of the Day</span>
+</div>
