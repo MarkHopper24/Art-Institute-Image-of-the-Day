@@ -2,18 +2,18 @@
 <img src="https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/300,/0/default.jpg" height="120"/>
 </p>
 
-## Venus and Adonis (?) with the Duck Hunt
+## Susano-o no Mikoto Killing the Eight-headed Dragon
 <p align="center">
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
 </p>
 
-**Artist:** Presumably woven at the workshop of Jacques I Geubels (died 1601/05) or his widow Catharina van den Eynde (died before 1629), Brussels
+**Artist:** Torii Kiyomasu II, Japanese, 1706 (?)–1763 (?)
 
-**Date:** c. 1600
+**Date:** 1748
 
-**Medium:** Wool and silk, slit and double interlocking tapestry weave, Warp: Count: 7 warps per cm; wool: S-ply of three Z-spun elements; diameters: 0.7–0.9 mm, Weft: Count: varies from 17 to 30 wefts per cm; wool: S-ply of two Z-spun elements; pairs of S-ply of two Z-spun elements; diameters: 0.5–1.2 mm; silk: pairs of S-ply of two Z-twisted elements; diameters: 0.5–1.2. mm
+**Medium:** Color woodblock print; hosoban
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/2581)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/19386)
 
 <h2>What is this repository?</h2>
 
