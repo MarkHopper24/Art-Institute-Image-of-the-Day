@@ -2,18 +2,18 @@
 <img src="https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/300,/0/default.jpg" height="120"/>
 </p>
 
-## Susano-o no Mikoto Killing the Eight-headed Dragon
+## Shower Below the Summit (Sanka hakuu), from the series "Thirty-Six Views of Mount Fuji (Fugaku sanjurokkei)"
 <p align="center">
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
 </p>
 
-**Artist:** Torii Kiyomasu II, Japanese, 1706 (?)–1763 (?)
+**Artist:** Katsushika Hokusai 葛飾 北斎 , Japanese, 1760-1849
 
-**Date:** 1748
+**Date:** c. 1830/33
 
-**Medium:** Color woodblock print; hosoban
+**Medium:** Color woodblock print, oban
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/19386)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/87008)
 
 <h2>What is this repository?</h2>
 
