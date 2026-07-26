@@ -2,18 +2,18 @@
 <img src="https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/300,/0/default.jpg" height="120"/>
 </p>
 
-## Shower Below the Summit (Sanka hakuu), from the series "Thirty-Six Views of Mount Fuji (Fugaku sanjurokkei)"
+## The Little Errand Girl
 <p align="center">
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
 </p>
 
-**Artist:** Katsushika Hokusai 葛飾 北斎 , Japanese, 1760-1849
+**Artist:** Henri de Toulouse-Lautrec, French, 1864-1901
 
-**Date:** c. 1830/33
+**Date:** 1893
 
-**Medium:** Color woodblock print, oban
+**Medium:** Lithograph on cream wove paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/87008)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/7604)
 
 <h2>What is this repository?</h2>
 
