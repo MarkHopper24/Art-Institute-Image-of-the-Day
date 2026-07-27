@@ -2,18 +2,18 @@
 <img src="https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/300,/0/default.jpg" height="120"/>
 </p>
 
-## The Little Errand Girl
+## Lady Reading the Letters of Heloise and Abelard
 <p align="center">
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
 </p>
 
-**Artist:** Henri de Toulouse-Lautrec, French, 1864-1901
+**Artist:** Bernard d'Agesci (French, 1756–1829)
 
-**Date:** 1893
+**Date:** c. 1780
 
-**Medium:** Lithograph on cream wove paper
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/7604)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/133859)
 
 <h2>What is this repository?</h2>
 
