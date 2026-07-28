@@ -2,18 +2,18 @@
 <img src="https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/300,/0/default.jpg" height="120"/>
 </p>
 
-## Lady Reading the Letters of Heloise and Abelard
+## E-2: English Bedchamber of the Jacobean or Stuart Period, 1603-88
 <p align="center">
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
 </p>
 
-**Artist:** Bernard d'Agesci (French, 1756–1829)
+**Artist:** Designed by Narcissa Niblack Thorne, American, 1882-1966
 
-**Date:** c. 1780
+**Date:** c. 1937
 
-**Medium:** Oil on canvas
+**Medium:** Miniature room, mixed media
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/133859)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/43686)
 
 <h2>What is this repository?</h2>
 
