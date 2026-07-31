@@ -2,18 +2,18 @@
 <img src="https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/300,/0/default.jpg" height="120"/>
 </p>
 
-## E-2: English Bedchamber of the Jacobean or Stuart Period, 1603-88
+## The Crucifixion
 <p align="center">
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
 </p>
 
-**Artist:** Designed by Narcissa Niblack Thorne, American, 1882-1966
+**Artist:** Carlo Crivelli (Italian, about 1430–about 1495)
 
-**Date:** c. 1937
+**Date:** c. 1487
 
-**Medium:** Miniature room, mixed media
+**Medium:** Tempera on panel
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/43686)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/111622)
 
 <h2>What is this repository?</h2>
 
