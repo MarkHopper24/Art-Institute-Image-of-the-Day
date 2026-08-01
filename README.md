@@ -2,18 +2,18 @@
 <img src="https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/300,/0/default.jpg" height="120"/>
 </p>
 
-## The Crucifixion
+## Still Life
 <p align="center">
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
 </p>
 
-**Artist:** Carlo Crivelli (Italian, about 1430–about 1495)
+**Artist:** Pieter Claesz (Dutch, 1596/97–1660)
 
-**Date:** c. 1487
+**Date:** c. 1625
 
-**Medium:** Tempera on panel
+**Medium:** Oil on panel
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/111622)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/21682)
 
 <h2>What is this repository?</h2>
 
