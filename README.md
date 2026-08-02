@@ -2,18 +2,18 @@
 <img src="https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/300,/0/default.jpg" height="120"/>
 </p>
 
-## Still Life
+## André de Nerciat
 <p align="center">
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
 </p>
 
-**Artist:** Pieter Claesz (Dutch, 1596/97–1660)
+**Artist:** Felix Bracquemond, French, 1833–1914
 
-**Date:** c. 1625
+**Date:** 1867
 
-**Medium:** Oil on panel
+**Medium:** Etching on ivory laid paper
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/21682)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/21276)
 
 <h2>What is this repository?</h2>
 
