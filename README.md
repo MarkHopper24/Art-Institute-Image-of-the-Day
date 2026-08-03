@@ -2,18 +2,18 @@
 <img src="https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/300,/0/default.jpg" height="120"/>
 </p>
 
-## André de Nerciat
+## Tetradrachm (Coin) Portraying Demetrius II Nikator of Syria
 <p align="center">
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
 </p>
 
-**Artist:** Felix Bracquemond, French, 1833–1914
+**Artist:** Greek, minted in Tyre
 
-**Date:** 1867
+**Date:** 130-129 BCE, Reign of Demetrius II Nikator of Syria, 145–139 BCE and 129–125 BCE
 
-**Medium:** Etching on ivory laid paper
+**Medium:** Silver
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/21276)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/9739)
 
 <h2>What is this repository?</h2>
 
