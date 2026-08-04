@@ -2,18 +2,18 @@
 <img src="https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/300,/0/default.jpg" height="120"/>
 </p>
 
-## Tetradrachm (Coin) Portraying Demetrius II Nikator of Syria
+## Elaine
 <p align="center">
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
 </p>
 
-**Artist:** Greek, minted in Tyre
+**Artist:** Toby Edward Rosenthal (American, 1848–1917)
 
-**Date:** 130-129 BCE, Reign of Demetrius II Nikator of Syria, 145–139 BCE and 129–125 BCE
+**Date:** 1874
 
-**Medium:** Silver
+**Medium:** Oil on canvas
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/9739)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/72320)
 
 <h2>What is this repository?</h2>
 
