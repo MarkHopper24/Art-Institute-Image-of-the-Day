@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/300,/0/default.jpg" height="120"/>
-</p>
+<h1>Art Institute of Chicago - Image of the Day</h1>
 
 ## Elaine
 <p align="center">
