@@ -5,13 +5,18 @@
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
 </p>
 
-**Artist:** Toby Edward Rosenthal (American, 1848–1917)
+## Arab Horseman Attacked by a Lion
+<p align="center">
+<img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
+</p>
 
-**Date:** 1874
+**Artist:** Eugène Delacroix (French, 1798–1863)
 
-**Medium:** Oil on canvas
+**Date:** 1849–50
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/72320)
+**Medium:** Oil on panel
+
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/81503)
 
 <h2>What is this repository?</h2>
 
