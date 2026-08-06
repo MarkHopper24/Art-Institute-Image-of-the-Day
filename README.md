@@ -1,10 +1,5 @@
 <h1>Art Institute of Chicago - Image of the Day</h1>
 
-## Elaine
-<p align="center">
-<img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
-</p>
-
 ## Arab Horseman Attacked by a Lion
 <p align="center">
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
