@@ -1,5 +1,6 @@
 
 
+
 <!-- ARTWORK_START -->
 
 ## Polynesian Woman with Children
@@ -19,6 +20,8 @@
 [View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/34461)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
