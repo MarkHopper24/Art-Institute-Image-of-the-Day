@@ -1,11 +1,12 @@
 
+
 <!-- ARTWORK_START -->
 
 ## Polynesian Woman with Children
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/cc5cdb81-14cf-27e9-eda8-94c08244ebaa/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
@@ -18,6 +19,8 @@
 [View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/34461)
 
 <!-- ARTWORK_END -->
+
+
 
 <h2>What is this repository?</h2>
 
