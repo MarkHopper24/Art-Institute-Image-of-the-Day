@@ -188,14 +188,6 @@ else {
 
 }
 
-$newContent |
-
-    Set-Content `
-
-        -Path $readmePath `
-
-        -NoNewline `
-
-        -Encoding UTF8
+    Set-Content -Path $readmePath -Value $newContent -NoNewline -Encoding UTF8
 
 Write-Host "Updated $readmePath"
