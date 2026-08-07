@@ -4,6 +4,14 @@
 
     Updates README.md with the current Art Institute of Chicago Image of the Day.
 
+.DESCRIPTION
+
+    Reads ArtInstituteImageOfTheDay.json and replaces the README artwork section.
+
+    The README image uses the current Art Institute IIIF URL instead of the local
+
+    artwork.jpg file, which may be stale or cached.
+
 #>
 
 $ErrorActionPreference = 'Stop'
@@ -20,11 +28,35 @@ $jsonPath = Join-Path $RepoRoot 'ArtInstituteImageOfTheDay.json'
 
 $readmePath = Join-Path $RepoRoot 'README.md'
 
+if (-not (Test-Path $jsonPath)) {
+
+    throw "JSON file not found: $jsonPath"
+
+}
+
+if (-not (Test-Path $readmePath)) {
+
+    throw "README file not found: $readmePath"
+
+}
+
 $art = Get-Content -Path $jsonPath -Raw | ConvertFrom-Json
 
 $readmeContent = Get-Content -Path $readmePath -Raw
 
-$imageSrc = "https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/$($art.LocalImage)"
+$imageSrc = $art.ImageURLLarge
+
+if ([string]::IsNullOrWhiteSpace($imageSrc)) {
+
+    $imageSrc = $art.ImageURL
+
+}
+
+if ([string]::IsNullOrWhiteSpace($imageSrc)) {
+
+    throw 'No artwork image URL was found in ArtInstituteImageOfTheDay.json.'
+
+}
 
 $artworkSection = @"
 
@@ -84,17 +116,25 @@ if ([regex]::IsMatch($readmeContent, $markerPattern)) {
 
 else {
 
-    # Legacy README support:
+    $artworkHeading = [regex]::Match(
 
-    # Remove everything from the first artwork heading through the repository heading.
+        $readmeContent,
 
-    $artworkHeading = [regex]::Match($readmeContent, $artworkHeadingPattern)
+        $artworkHeadingPattern
 
-    $repositoryHeading = [regex]::Match($readmeContent, $repositoryHeadingPattern)
+    )
+
+    $repositoryHeading = [regex]::Match(
+
+        $readmeContent,
+
+        $repositoryHeadingPattern
+
+    )
 
     if (-not $artworkHeading.Success) {
 
-        throw "Could not find the artwork section in README.md."
+        throw 'Could not find the artwork section in README.md.'
 
     }
 
@@ -106,13 +146,23 @@ else {
 
     if ($artworkHeading.Index -ge $repositoryHeading.Index) {
 
-        throw "README.md section boundaries are invalid."
+        throw 'README section boundaries are invalid.'
 
     }
 
-    $prefix = $readmeContent.Substring(0, $artworkHeading.Index).TrimEnd()
+    $prefix = $readmeContent.Substring(
 
-    $suffix = $readmeContent.Substring($repositoryHeading.Index)
+        0,
+
+        $artworkHeading.Index
+
+    ).TrimEnd()
+
+    $suffix = $readmeContent.Substring(
+
+        $repositoryHeading.Index
+
+    )
 
     if ([string]::IsNullOrWhiteSpace($prefix)) {
 
@@ -122,12 +172,30 @@ else {
 
     else {
 
-        $newContent = $prefix + $newline + $newline + $replacement + $suffix
+        $newContent =
+
+            $prefix +
+
+            $newline +
+
+            $newline +
+
+            $replacement +
+
+            $suffix
 
     }
 
 }
 
-$newContent | Set-Content -Path $readmePath -NoNewline -Encoding UTF8
+$newContent |
+
+    Set-Content `
+
+        -Path $readmePath `
+
+        -NoNewline `
+
+        -Encoding UTF8
 
 Write-Host "Updated $readmePath"
