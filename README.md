@@ -3,13 +3,18 @@
 <img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
 </p>
 
-**Artist:** Eugène Delacroix (French, 1798–1863)
+## Polynesian Woman with Children
+<p align="center">
+<img src="https://raw.githubusercontent.com/MarkHopper24/Art-Institute-Image-of-the-Day/refs/heads/main/artwork.jpg" width="600" height="auto"/>
+</p>
 
-**Date:** 1849–50
+**Artist:** Paul Gauguin (French, 1848–1903)
 
-**Medium:** Oil on panel
+**Date:** 1901
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/81503)
+**Medium:** Oil on linen canvas
+
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/34461)
 
 <h2>What is this repository?</h2>
 
