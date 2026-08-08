@@ -2,25 +2,28 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
-## Polynesian Woman with Children
+## Jar in the Form of an Abstract Figure with Modeled Head and Wide Collar
 
 <p align="center">
 
-<img src="https://www.artic.edu/iiif/2/cc5cdb81-14cf-27e9-eda8-94c08244ebaa/full/1200,/0/default.jpg" width="600" height="auto"/>
+<img src="https://www.artic.edu/iiif/2/6175b715-7e70-df08-4eef-d0de4262236e/full/1200,/0/default.jpg" width="600" height="auto"/>
 
 </p>
 
-**Artist:** Paul Gauguin (French, 1848–1903)
+**Artist:** Moche, North coast, Peru
 
-**Date:** 1901
+**Date:** 100 BCE–500 CE
 
-**Medium:** Oil on linen canvas
+**Medium:** Ceramic and pigment
 
-[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/34461)
+[View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/8841)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
