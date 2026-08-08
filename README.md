@@ -4,6 +4,7 @@
 
 
 
+
 <!-- ARTWORK_START -->
 
 ## Jar in the Form of an Abstract Figure with Modeled Head and Wide Collar
@@ -23,6 +24,8 @@
 [View this artwork at the Art Institute of Chicago](https://www.artic.edu/artworks/8841)
 
 <!-- ARTWORK_END -->
+
+
 
 
 
